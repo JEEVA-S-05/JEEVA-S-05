@@ -41,4 +41,6 @@ Intelligent healthcare safety and biohazard response system.
 - Portfolio
 - Email
 - 
-![Jeeva Banner](banner.png)
+## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,sql,spark,scala,git,github,vscode" />
