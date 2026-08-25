@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Jeeva
 
-<!--
-**JEEVA-S-05/JEEVA-S-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Data Science Developer
 
-Here are some ideas to get you started:
+Building intelligent systems using AI, data and robotics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 AI & Data Science Student
+- 🤖 Interested in Artificial Intelligence and Robotics
+- 📊 Exploring Big Data and Data Engineering
+- 🧠 Learning Machine Learning and Computer Vision
+- 🚀 Building real-world projects
+
+## 🛠️ Tech Stack
+
+- Python
+- Java
+- C/C++
+- SQL
+- Apache Spark
+- PySpark
+- Scala
+- Git
+- GitHub
+
+## 🚀 Projects
+
+### 🤖 AI Medical Waste Rover
+AI-powered robotic system for biomedical waste detection and collection.
+
+### 📊 Hospital Patient Records Analysis
+Big Data analysis project using Apache Spark SQL.
+
+### 🦾 Smart Safety Capsule
+Intelligent healthcare safety and biohazard response system.
+
+## 🌐 Connect With Me
+
+- LinkedIn
+- Portfolio
+- Email
