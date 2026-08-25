@@ -1,44 +1,110 @@
-<div align="center">
+<!-- PROFILE HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Hi%20there,%20I'm%20Jeeva%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Developer&descAlignY=55&descSize=18&descColor=e2e8f0" width="100%"/>
+<h1 align="center">Hi there, I'm Jeeva 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+with+AI+%26+Data;AI+%2F+Machine+Learning+%2F+Robotics;Big+Data+%7C+Apache+Spark+%7C+PySpark;Turning+data+into+practical+solutions" alt="Typing SVG" />
+<p align="center">
+  <b>AI & Data Science Student | Machine Learning | Big Data | Software Development</b>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/JEEVA-S-05">
+    <img src="https://komarev.com/ghpvc/?username=JEEVA-S-05&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
 
-<br/>
+---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech AI & Data Science student @ M. Kumarasamy College of Engineering, Karur (2024–2028) — CGPA **8.3/10**
-- 🤖 Interested in AI, robotics, computer vision, and intelligent systems
-- 📊 Exploring Big Data, Apache Spark, and data engineering
-- 🏆 2x hackathon winner — Gencraft Hackathon (1st), Chakravyuh (2nd)
-- 🚀 Currently building an **AI-powered Medical Waste Rover** using computer vision + robotics
-- 🌱 Learning Machine Learning & advanced Computer Vision
-- 📫 Reach me at **jeevaofficial3567@gmail.com**
+I'm an AI & Data Science student passionate about building practical solutions using
+Artificial Intelligence, Machine Learning, Big Data and Software Development.
 
-<br/>
+- 🎓 AI & Data Science Student
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 📊 Exploring Big Data and Data Analytics
+- ⚡ Working with Apache Spark and Scala
+- 💻 Building real-world software and AI projects
+- 🚀 Always learning and improving my technical skills
 
-### 🛠️ Tech Stack
+---
 
-<div align="center">
+## 🛠️ Tech Stack
 
-**Languages & Core**
-<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+### Programming Languages
 
-**AI & Data**
-<br/>
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,sql" />
+</p>
+
+### Data Science & Big Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spark,scala" />
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JEEVA-S-05&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEEVA-S-05&layout=compact&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JEEVA-S-05&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Medical Waste Rover
+
+An autonomous robotic system designed to detect, classify and collect biomedical waste using AI, computer vision and robotic automation.
+
+**Technologies:** Python · AI · Computer Vision · Robotics · Spark · Scala
+
+---
+
+### 📊 Hospital Patient Records Analysis
+
+A Big Data analytics project that processes and analyzes hospital patient records using Apache Spark and Spark SQL.
+
+**Technologies:** Apache Spark · Spark SQL · Scala · Big Data
+
+---
+
+### 🛡️ Smart Safety Capsule
+
+An intelligent healthcare safety system designed to improve biomedical waste handling and reduce manual exposure to hazardous waste.
+
+**Technologies:** AI · IoT · Robotics · Machine Learning
+
+---
+
+## 📚 Currently Learning
+
+```text
+Artificial Intelligence
+Machine Learning
+Big Data Analytics
+Apache Spark
+Spark SQL
+Scala
+Data Science
+Computer Vision
+Cloud Technologies![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Web & Tools**
 <br/>
