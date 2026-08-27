@@ -65,16 +65,27 @@ I enjoy turning ideas into real-world projects and continuously improving my ski
 </p>
 
 ---
-
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JEEVA-S-05&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JEEVA-S-05&theme=tokyonight&hide_border=true" height="170" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=JEEVA-S-05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    width="49%"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=JEEVA-S-05&theme=tokyonight&hide_border=true"
+    width="49%"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEEVA-S-05&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEEVA-S-05&layout=compact&theme=tokyonight&hide_border=true"
+    width="45%"
+    alt="Top Languages"
+  />
 </p>
 
 ---
