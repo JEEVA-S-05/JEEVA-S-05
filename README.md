@@ -1,29 +1,128 @@
-# 👋 Hi, I'm Jeeva S
+<div align="center">
 
-### AI & Data Science Student | Data Analytics | Big Data | AI/ML | Computer Vision
+# 👋 Hey, I'm Jeeva S
 
-> **"Turning data into intelligence, and ideas into real-world systems."**
+### AI & Data Science Student • AI/ML • Data Analytics • Big Data
 
-I'm an **AI & Data Science student** passionate about building intelligent applications that combine **Artificial Intelligence, Data Engineering, Big Data and Computer Vision**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Exploring+AI+%26+Machine+Learning;Working+with+Big+Data+%26+Apache+Spark;Turning+Ideas+into+Real-World+Projects" alt="Typing SVG" />
 
-I enjoy taking a problem from **idea → data → model → application** and continuously improving my technical skills through projects and experimentation.
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeeva-s-/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JEEVA-S-05)
+
+</div>
+
+---
+
+## 🧠 Who Am I?
+
+<table>
+<tr>
+<td width="60%">
+
+I'm an **AI & Data Science student** focused on building practical solutions using:
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data Analytics & Data Engineering
+- ⚡ Apache Spark & Spark SQL
+- 👁️ Computer Vision
+- 🐍 Python & SQL
+- ☕ Java & C++
+- 🔥 Scala & Big Data
+
+I enjoy turning a problem into a complete workflow:
+
+**Problem → Data → Intelligence → Application → Impact**
+
+</td>
+
+<td width="40%">
+
+### ⚡ Quick Snapshot
+
+🎓 **AI & Data Science**
+
+🤖 **AI / ML**
+
+📊 **Data Analytics**
+
+⚡ **Big Data**
+
+👁️ **Computer Vision**
+
+🐍 **Python**
+
+🗄️ **SQL**
+
+🚀 **Project Builder**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 About Me
+## 🛠️ My Technical Stack
 
-- 🎓 AI & Data Science Student
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 📊 Exploring Data Analytics and Data Engineering
-- ⚡ Working with Apache Spark & Spark SQL
-- 👁️ Exploring Computer Vision
-- 🐍 Python-focused developer
-- ☕ Comfortable with Java & C++
-- 🗄️ Interested in SQL & Database Systems
-- 🚀 Building practical, problem-oriented projects
-- 📚 Currently improving my skills in Big Data, ML and scalable systems
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,scala" />
+</p>
+
+### 🤖 AI • Data • Big Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,pandas,numpy,spark" />
+</p>
+
+### 🗄️ Databases & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux" />
+</p>
 
 ---
+
+## 📈 Technical Proficiency
+
+| Domain | Technologies | Level |
+|:---|:---|:---:|
+| 🐍 Programming | Python • Java • C++ | 🟢 Intermediate |
+| 🗄️ Databases | SQL • MySQL | 🟢 Intermediate |
+| 📊 Data Science | Pandas • NumPy • Data Analysis | 🟢 Intermediate |
+| ⚡ Big Data | Apache Spark • Spark SQL | 🟢 Intermediate |
+| 🔥 Distributed Data | Scala • Spark | 🟡 Developing |
+| 🤖 AI / ML | Machine Learning • AI | 🟡 Developing |
+| 👁️ Computer Vision | OpenCV • Image Processing | 🟡 Developing |
+| 🌐 Development | Git • GitHub • VS Code | 🟢 Intermediate |
+| 🐧 Environment | Linux | 🟡 Developing |
+
+---
+
+## 🚀 What I Build
+
+```text
+          ┌─────────────────────┐
+          │     REAL PROBLEM    │
+          └──────────┬──────────┘
+                     ↓
+          ┌─────────────────────┐
+          │     COLLECT DATA    │
+          └──────────┬──────────┘
+                     ↓
+          ┌─────────────────────┐
+          │   ANALYZE / TRAIN   │
+          └──────────┬──────────┘
+                     ↓
+          ┌─────────────────────┐
+          │  BUILD INTELLIGENCE │
+          └──────────┬──────────┘
+                     ↓
+          ┌─────────────────────┐
+          │  REAL-WORLD SYSTEM  │
+          └─────────────────────┘
 
 ## 🛠️ Technical Skills
 
