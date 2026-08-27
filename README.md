@@ -1,22 +1,25 @@
-<!-- HEADER -->
+<!-- ===================================================== -->
+<!--                   ANIMATED HEADER                     -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-# 👋 Hi, I'm Jeeva S
-
-### AI & Data Science Student • Data Analytics • AI/ML • Big Data
-
-<p>
-  <i>Building intelligent systems from data to real-world applications.</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,100:2563EB&text=JEEVA%20S&fontColor=FFFFFF&fontSize=55&fontAlignY=38&animation=fadeIn&desc=AI%20%26%20Data%20Science%20Student&descAlignY=62&descSize=18"/>
 
 <br>
 
-<a href="https://www.linkedin.com/in/jeeva-s-/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=55&lines=AI+%26+Data+Science+Student;Building+Intelligent+Systems;Exploring+Machine+Learning;Working+with+Big+Data;Turning+Data+into+Real-World+Solutions" />
 </a>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/jeeva-s-/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <a href="mailto:jeevaofficial3567@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -25,51 +28,21 @@
 
 ## 🧠 About Me
 
-I'm an **AI & Data Science student** interested in building practical solutions using:
+I'm **Jeeva S**, an **AI & Data Science student** focused on building practical solutions with data, artificial intelligence and intelligent systems.
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data Analytics & Data Engineering
-- ⚡ Big Data & Apache Spark
-- 👁️ Computer Vision
-- 🦾 Robotics & Intelligent Systems
+My interests sit at the intersection of:
 
-I enjoy turning a problem into:
+**AI/ML × Data Analytics × Big Data × Computer Vision × Robotics**
 
-**Idea → Data → Intelligence → Application**
-
----
-
-## ⚡ What I Work With
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,scala,spark,pandas,numpy,git,github,vscode,linux" />
-
-</div>
-
-<br>
-
-| Area | Technologies |
-|---|---|
-| **Programming** | Python · Java · C++ · SQL · Scala |
-| **AI / ML** | Machine Learning · Computer Vision · Data Preprocessing |
-| **Data** | Pandas · NumPy · Data Analytics · Data Visualization |
-| **Big Data** | Apache Spark · Spark SQL · Scala |
-| **Databases** | MySQL · SQL |
-| **Tools** | Git · GitHub · VS Code · Linux |
-
----
-
-## 📈 Technical Level
+I enjoy taking a problem from:
 
 ```text
-Python              █████████░  Intermediate
-SQL                 █████████░  Intermediate
-Java                ████████░░  Intermediate
-Apache Spark        ████████░░  Intermediate
-Pandas / NumPy      ████████░░  Intermediate
-Machine Learning    ███████░░░  Intermediate
-Computer Vision     ██████░░░░  Beginner–Intermediate
-Scala               ██████░░░░  Beginner–Intermediate
-C++                 ██████░░░░  Beginner–Intermediate
-Git / GitHub        ████████░░  Intermediate
+Problem
+   ↓
+Data
+   ↓
+Analysis
+   ↓
+Intelligence
+   ↓
+Real-World Application
