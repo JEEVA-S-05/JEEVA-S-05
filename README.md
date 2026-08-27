@@ -1,25 +1,20 @@
-<!-- ===================================================== -->
-<!--                   ANIMATED HEADER                     -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,100:2563EB&text=JEEVA%20S&fontColor=FFFFFF&fontSize=55&fontAlignY=38&animation=fadeIn&desc=AI%20%26%20Data%20Science%20Student&descAlignY=62&descSize=18"/>
+<img src="./assets/header.svg" alt="Jeeva S - AI and Data Science" width="100%">
 
 <br>
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=55&lines=AI+%26+Data+Science+Student;Building+Intelligent+Systems;Exploring+Machine+Learning;Working+with+Big+Data;Turning+Data+into+Real-World+Solutions" />
-</a>
+### AI & Data Science Student
+**AI/ML • Data Analytics • Big Data • Computer Vision**
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/jeeva-s-/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  LinkedIn
 </a>
-
+&nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="mailto:jeevaofficial3567@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  Email
 </a>
 
 </div>
@@ -28,21 +23,144 @@
 
 ## 🧠 About Me
 
-I'm **Jeeva S**, an **AI & Data Science student** focused on building practical solutions with data, artificial intelligence and intelligent systems.
+Hi, I'm **Jeeva S** — an **AI & Data Science student** interested in building practical technology for real-world problems.
 
-My interests sit at the intersection of:
+My current interests are:
 
-**AI/ML × Data Analytics × Big Data × Computer Vision × Robotics**
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data Analytics & Data Engineering
+- ⚡ Apache Spark & Spark SQL
+- 👁️ Computer Vision
+- 🦾 Robotics & Intelligent Systems
+- 🗄️ SQL & Database Systems
 
-I enjoy taking a problem from:
+I like working through the complete process:
+
+**Problem → Data → Analysis → Intelligence → Application**
+
+---
+
+## ⚡ What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Intelligent Systems
+
+Building AI-driven applications that combine:
+
+- Machine Learning
+- Computer Vision
+- Robotics
+- IoT
+- Automation
+
+</td>
+
+<td width="50%">
+
+### 📊 Data Systems
+
+Working with:
+
+- Data Analytics
+- SQL
+- Apache Spark
+- Spark SQL
+- Data Processing
+- Data Engineering
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Technical Skills
+
+## 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,scala" height="55">
+</p>
+
+| Technology | Level |
+|---|---|
+| Python | 🟢 Intermediate |
+| Java | 🟢 Intermediate |
+| SQL | 🟢 Intermediate |
+| C++ | 🟡 Beginner–Intermediate |
+| Scala | 🟡 Beginner–Intermediate |
+
+---
+
+## 🤖 AI & Machine Learning
+
+| Skill | Level |
+|---|---|
+| Machine Learning | 🟢 Intermediate |
+| Artificial Intelligence | 🟢 Intermediate |
+| Data Preprocessing | 🟢 Intermediate |
+| Model Evaluation | 🟡 Beginner–Intermediate |
+| Feature Engineering | 🟡 Beginner–Intermediate |
+| Computer Vision | 🟡 Beginner–Intermediate |
+
+---
+
+## 📊 Data & Big Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=pandas,numpy,spark" height="55">
+</p>
+
+| Technology | Level |
+|---|---|
+| Pandas | 🟢 Intermediate |
+| NumPy | 🟢 Intermediate |
+| Apache Spark | 🟢 Intermediate |
+| Spark SQL | 🟢 Intermediate |
+| Data Analytics | 🟢 Intermediate |
+| Data Visualization | 🟡 Beginner–Intermediate |
+
+---
+
+## ⚙️ Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="55">
+</p>
+
+| Tool | Level |
+|---|---|
+| Git | 🟢 Intermediate |
+| GitHub | 🟢 Intermediate |
+| VS Code | 🟢 Intermediate |
+| Linux | 🟡 Beginner–Intermediate |
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI Medical Waste Management Rover
+
+> An intelligent robotic system designed to assist with medical waste identification, collection and segregation.
+
+### Technology
+
+`Python` `AI/ML` `Computer Vision` `Robotics` `IoT` `Apache Spark` `Scala`
+
+### System Pipeline
 
 ```text
-Problem
-   ↓
-Data
-   ↓
-Analysis
-   ↓
-Intelligence
-   ↓
-Real-World Application
+Detection
+    ↓
+Classification
+    ↓
+Navigation
+    ↓
+3-DOF Robotic Arm
+    ↓
+Waste Collection
+    ↓
+Segregation
